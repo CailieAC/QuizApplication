@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace QuizApplication.Controllers
 {
-    public class QuestionController : Controller
+    public class QuizController : Controller
     {
         public IActionResult Index()
         {
